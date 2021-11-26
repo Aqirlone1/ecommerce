@@ -1,0 +1,22 @@
+SMAP
+deliveredOrders_jsp.java
+JSP
+*S JSP
+*F
++ 0 deliveredOrders.jsp
+deliveredOrders.jsp
++ 1 adminHeader.jsp
+adminHeader.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,2:52
+1#1,13:54
+15:69,2
+16,13:71
+3#0:83
+1#2,3:84
+4#0,14:87
+20:104,2
+21,50:106
+*E
